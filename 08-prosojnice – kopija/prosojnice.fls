@@ -1,0 +1,19 @@
+PWD c:\Users\Leon\OneDrive - Univerza v Ljubljani\Namizje\racunalniski-praktikum\08-prosojnice
+INPUT C:\Users\Leon\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Leon\OneDrive - Univerza v Ljubljani\Namizje\racunalniski-praktikum\08-prosojnice\prosojnice.tex
+OUTPUT prosojnice.log
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamer.cls
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamer.cls
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Leon\AppData\Local\Programs\MiKTeX2\tex\latex\hyperref\hyperref.sty
